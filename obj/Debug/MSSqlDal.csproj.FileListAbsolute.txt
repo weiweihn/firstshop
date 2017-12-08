@@ -1,0 +1,11 @@
+D:\mycode\GShop\library\MSSqlDal\obj\Debug\ResolveAssemblyReference.cache
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\MSSqlDal.dll
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\MSSqlDal.pdb
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\DBUtility.dll
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\IDAL.dll
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\Model.dll
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\IDAL.pdb
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\DBUtility.pdb
+D:\mycode\GShop\library\MSSqlDal\bin\Debug\Model.pdb
+D:\mycode\GShop\library\MSSqlDal\obj\Debug\MSSqlDal.dll
+D:\mycode\GShop\library\MSSqlDal\obj\Debug\MSSqlDal.pdb
