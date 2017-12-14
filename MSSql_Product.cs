@@ -33,6 +33,7 @@ namespace MSSqlDal
         /// </summary>
         /// <param name="id">产品id</param>
         /// <returns>成功返回一个Product 否则返回null </returns>
+		/// 第一次  提交到  dev ，修改product.cs
        public Product GetProductById(int id)
        {
            if (id <= 0) return null;
