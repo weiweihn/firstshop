@@ -34,7 +34,8 @@ namespace MSSqlDal
         /// <param name="id">产品id</param>
         /// <returns>成功返回一个Product 否则返回null </returns>
 		/// 第一次  提交到  dev ，修改product.cs
-       public Product GetProductById(int id)
+        /// 第二次  提交到  dev ，修改product.cs
+	   public Product GetProductById(int id)
        {
            if (id <= 0) return null;
            string sqlstr = @"select * from dbo.Product where Id=@id";
